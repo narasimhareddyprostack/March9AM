@@ -16,3 +16,4 @@ git config --global user.email "narasimhareddyk18@gmail.com"
 git config --global user.name "narasimhareddyprostack"
 git remote add origin https://github.com/narasimhareddyprostack/March9AM.git
 
+git push -f origin master
