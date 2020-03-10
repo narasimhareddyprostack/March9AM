@@ -1,0 +1,18 @@
+Setup
+
+1.Install Git s/w
+2.github acc
+3.create Repo
+
+https://github.com/narasimhareddyprostack/March-5PM
+
+https://github.com/narasimhareddyprostack/March-5PM.git
+https://github.com/narasimhareddyprostack/March9AM
+https://github.com/narasimhareddyprostack/March9AM.git
+
+git init
+git commit -m "March5PMbatch"
+git config --global user.email "narasimhareddyk18@gmail.com"
+git config --global user.name "narasimhareddyprostack"
+git remote add origin https://github.com/narasimhareddyprostack/March9AM.git
+
